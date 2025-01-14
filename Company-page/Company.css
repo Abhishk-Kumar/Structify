@@ -284,8 +284,8 @@ width: 45%;
 
 
 .footer {
-background-color: rgba(0, 0, 0, 0.938);
-color: white;
+background-color: rgb(246,241,237);
+color: black;
 padding: 20px 0;
 
 }
@@ -298,16 +298,15 @@ max-width: 90%;
 margin: 0 auto;
 padding: 0 20px;
 }
-.footer .logo {
-font-size: 40px;
-font-weight: bold;
+.footer .logo img {
+height: 50px;
 }
 .footer .nav-links {
 display: flex;
 gap: 20px;
 }
 .footer .nav-links a {
-color: white;
+color: black;
 text-decoration: none;
 font-size: 16px;
 }
@@ -317,7 +316,7 @@ gap: 20px;
 
 }
 .footer .social-ic a {
-color: white;
+color: black;
 font-size: 22px;
 
 }
@@ -334,7 +333,7 @@ flex: 1;
 padding: 3px;
 }
 .footer .bottom-text a {
-color: white;
+color: black;
 text-decoration: none;
 }
 .bottom-text #copyright{
