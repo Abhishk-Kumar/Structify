@@ -33,7 +33,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
-    background: #f8cb2e;
+    background: white;
     position: fixed; /* Fixed navbar */
     top: 0;
     left: 0;
@@ -55,9 +55,8 @@
     text-decoration: underline;
   }
   
-  .logo {
-    font-size: 24px;
-    font-weight: bold;
+  .logo img {
+    height: 50px;
   }
   
   .menu-icon {
